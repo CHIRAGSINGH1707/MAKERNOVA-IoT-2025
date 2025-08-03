@@ -1,0 +1,14 @@
+	The command majorly used :
+Git config –global user.name
+Git config –global user.email
+Git init 
+Git add
+Git commit 
+Git status
+Git ls
+Git ls -lart
+Git log
+Git diff 
+Git ignore
+
+
